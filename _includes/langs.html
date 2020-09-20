@@ -1,0 +1,27 @@
+<nav aria-label="Auxiliary" class="aux-nav">
+  <ul class="aux-nav-list">
+    <li class="aux-nav-list-item">
+      <a class="site-button" title="{{ site.data.common[page.lang].footer.zeboOpen }}"
+        href="https://zebo.app">{{ site.data.common[page.lang].footer.zeboOpen }}
+      </a>
+    </li>
+    {%- for lang in site.data.langs -%}
+      {% assign translated_page=site.pages | where:"ref", page.ref | where:"lang", lang | first %}
+      <li class="aux-nav-list-item">
+      {%- if translated_page -%}
+        <a class="site-button nav-lang__link {% if lang == page.lang %}active{% endif %}" href="{{ translated_page.url }}">
+            {% case lang %}
+            {% when "ar" %}
+              عربى
+            {% else %}
+              {{ lang }}
+            {% endcase %}
+          </a>
+      {% else %}
+        <!-- not translated yet -->
+        <a class="site-button nav-lang__link unavailable" href="#">{{ lang }}</a>
+      {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>

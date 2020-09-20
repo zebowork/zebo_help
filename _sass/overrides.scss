@@ -1,0 +1,67 @@
+//
+// Custom overrides from a user.
+//
+
+@import "./font-awesome";
+
+// Footer
+.sidebar-footer-nav {
+  margin: 0;
+  padding: 0;
+
+  &__item {
+    display: inline-block;
+
+    &:not(last-child) {
+      margin-right: $sp-2;
+    }
+
+    &::before {
+      content: none !important; // to override default styles
+    }
+  }
+
+  &__link {
+    color: $blue-200;
+    display: inline-block;
+
+    &:visited {
+      color: $blue-200;
+    }
+
+    .fa {
+      font-size: 22px;
+    }
+  }
+}
+
+.side-bar{
+  border-right: none;
+  background-color: #6d71ef;
+}
+
+.side-bar a {
+  color: white;
+}
+
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
+  color: white;
+}
+
+.icon{
+  color: white;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover{
+  background-image: linear-gradient(-90deg, #6d71ef 0%, rgba(235, 237, 245, 0.8) 80%, rgba(139, 149, 187, 0) 100%);
+  color: rgb(46, 43, 43) !important;
+} 
+
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: whitesmoke;
+  color: black !important;
+}
+
+.site-title:hover {
+  background-image: none;
+}

@@ -1,0 +1,18 @@
+ar:
+  footer:
+    contact: اتصل بنا عبر الإنترنت
+    zeboOpen: "افتح تطبيق ZEBO"
+    email: "اتصل بنا عبر البريد الإلكتروني"
+  pageFooter:
+    home: "الصفحة الرئيسية"
+    legal: "مصطلحات قانونية"
+    cpRight: "حقوق الطبع والنشرمحفوظة"
+en:
+  footer:
+    contact: "Contact us online"
+    zeboOpen: "Open ZEBO app"
+    email: "Contact zebo by email"
+  pageFooter:
+    home: "Home"
+    legal: "Legal Terms"
+    cpRight: "Copyright &copy; All rights reserved."
