@@ -3,7 +3,7 @@ lang: en
 title: Application
 ref: application-home
 has_children: true
-nav_order: 2
+nav_order: 200
 ---
 
 # How to use zebo application

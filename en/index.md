@@ -3,7 +3,7 @@ layout: home
 lang: en
 title: Welcome Help Centre
 ref: homepage
-nav_order: 1
+nav_order: 100
 ---
 
 **Welcome to zebo help centre**

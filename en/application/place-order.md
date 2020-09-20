@@ -3,7 +3,7 @@ lang: en
 title: Place Order
 ref: applicationPlaceOrder
 parent: Application
-nav_order: 2
+nav_order: 500
 ---
 
 # How to place an order?

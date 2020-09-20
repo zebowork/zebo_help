@@ -1,9 +1,9 @@
 ---
 lang: en
 title: How Does Zebo Work
-ref: applicationZeboWork
-parent: Application
-nav_order: 1
+ref: concernZeboWork
+parent: Concerns
+nav_order: 300
 ---
 
 # How does zebo work?
