@@ -13,7 +13,10 @@ Zebo is a free app. We have made this app for your help. No need to worry about 
 Zebo is a desktop and mobile friendly app. You can use this on any hardware. We hope you may enjoy this app on your desired hardware. Any improvement or suggestion will be always welcome.
 
 ## On global mission
-We are on the global mission. We have an aim to spread Zebo world wide. 
+We are on the global mission. We have an aim to spread Zebo world wide.
+
+## Philosophy behind Zebo
+ZEBO word derived from Tajik language meaning "elegant". Zebo is a laundry man or washer man who will handle your clothes gracefully and give new life to your clothes with every clean. 
 
 # Why choose us
 
