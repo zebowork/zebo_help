@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Concerns
+title: FAQs
 ref: concernHome
 has_children: true
 nav_order: 300

@@ -2,7 +2,7 @@
 lang: en
 title: Place Order
 ref: applicationPlaceOrder
-parent: Application
+parent: Tutorials
 nav_order: 500
 ---
 

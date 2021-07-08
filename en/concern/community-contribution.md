@@ -2,7 +2,7 @@
 lang: en
 title: Becoming part of community
 ref: concernCommunityContribution
-parent: Concerns
+parent: FAQs
 nav_order: 900
 ---
 

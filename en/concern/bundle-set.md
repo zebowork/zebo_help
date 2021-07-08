@@ -2,7 +2,7 @@
 lang: en
 title: Bundle/Set
 ref: concernBundleSet
-parent: Concerns
+parent: FAQs
 nav_order: 350
 ---
 

@@ -2,7 +2,7 @@
 lang: en
 title: Pickup delivery fee
 ref: concernPickupDeliveryFee
-parent: Concerns
+parent: FAQs
 nav_order: 600
 ---
 

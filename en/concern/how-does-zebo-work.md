@@ -2,7 +2,7 @@
 lang: en
 title: How Does Zebo Work
 ref: concernZeboWork
-parent: Concerns
+parent: FAQs
 nav_order: 300
 ---
 

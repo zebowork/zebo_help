@@ -2,7 +2,7 @@
 lang: en
 title: Fabric Missing
 ref: applicationFabricMissing
-parent: Application
+parent: Tutorials
 nav_order: 600
 ---
 

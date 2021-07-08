@@ -2,7 +2,7 @@
 lang: en
 title: Delivery Taking Long
 ref: concernDeliveryTakingLong
-parent: Concerns
+parent: FAQs
 nav_order: 500
 ---
 

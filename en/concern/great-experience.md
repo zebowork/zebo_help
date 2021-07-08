@@ -2,7 +2,7 @@
 lang: en
 title: Great Experience
 ref: concernGreatExperience
-parent: Concerns
+parent: FAQs
 nav_order: 700
 ---
 

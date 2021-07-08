@@ -2,7 +2,7 @@
 lang: en
 title: Repeat job
 ref: applicationRepeatJob
-parent: Application
+parent: Tutorials
 nav_order: 1000
 ---
 

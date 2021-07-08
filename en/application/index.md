@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Application
+title: Tutorials
 ref: application-home
 has_children: true
 nav_order: 200

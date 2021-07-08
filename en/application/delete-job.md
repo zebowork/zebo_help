@@ -2,7 +2,7 @@
 lang: en
 title: Delete job
 ref: applicationDeleteJob
-parent: Application
+parent: Tutorials
 nav_order: 900
 ---
 

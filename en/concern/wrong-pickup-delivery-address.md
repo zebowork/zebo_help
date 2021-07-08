@@ -2,7 +2,7 @@
 lang: en
 title: Wrong address
 ref: concernWrongAddress
-parent: Concerns
+parent: FAQs
 nav_order: 400
 ---
 

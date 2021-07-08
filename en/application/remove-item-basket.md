@@ -2,7 +2,7 @@
 lang: en
 title: Remove item from basket
 ref: applicationRemoveItemBasket
-parent: Application
+parent: Tutorials
 nav_order: 700
 ---
 

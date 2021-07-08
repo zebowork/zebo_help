@@ -2,7 +2,7 @@
 lang: en
 title: Cancel job
 ref: applicationCancelJob
-parent: Application
+parent: Tutorials
 nav_order: 800
 ---
 
