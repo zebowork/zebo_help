@@ -10,7 +10,7 @@ videoId: 572748750
 # How to add or remove your address?
 You can't update your address but you can add new or delete your previous address by following below steps.
 1. Go to the "Settings"
-1. Click on "Addresses".
+1. Click on "Addresses"
 1. Click on text Box and enter your address
 1. Click "ADD+" button
 1. If you want to delete your address click on small red "×"

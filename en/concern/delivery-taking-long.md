@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Delivery Taking Long
+title: Delivery taking Long
 ref: concernDeliveryTakingLong
 parent: FAQs
 nav_order: 500
