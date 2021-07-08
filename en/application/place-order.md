@@ -17,3 +17,6 @@ nav_order: 500
 1. Assign job to your selected laundry.
 1. Provide details, by which your laundry contact
 1. Review and post your job
+
+<br/>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/572619868?dnt=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Place laundry"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
