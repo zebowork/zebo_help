@@ -12,3 +12,8 @@ This is home for zebo help and FAQs. You should be able to find answers here. If
 Help Guide is available in English (en) and we are adding Arabic (عربى). More languages will be coming soon.
 
 [للغة العربية](/ar){: .btn .fs-8}
+
+**Quick start**
+* [Tutorials](/en/application) Learn how to use zebo application
+* [FAQs](/en/concern) Common asked questions
+* [About us](/en/about) Why choose us
