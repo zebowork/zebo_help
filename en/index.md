@@ -13,7 +13,11 @@ Help Guide is available in English (en) and we are adding Arabic (عربى). Mor
 
 [للغة العربية](/ar){: .btn .fs-8}
 
-**Quick start**
-* [Tutorials](/en/application) Learn how to use zebo application
-* [FAQs](/en/concern) Common asked questions
+**Let get you started**
+* [Tutorials](/en/tutorials) Learn how to use zebo application
+* [FAQs](/en/faqs) Common asked questions
 * [About us](/en/about) Why choose us
+
+**Not sure?**
+
+Start typing in search bar (on top or press option button) to find relevant topic
